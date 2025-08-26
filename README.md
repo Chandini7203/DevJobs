@@ -41,6 +41,10 @@ DevJobs/
 
 ---
 
+## Screenshots
+![Uploading image.png…]()
+
+
 ## 💡 Future Improvements
 
 - Job filtering by category, location, company  

@@ -42,7 +42,8 @@ DevJobs/
 ---
 
 ## Screenshots
-![Uploading image.png…]()
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/0973aa04-4ccc-47f9-b03b-2c5a495e565b" />
+
 
 
 ## 💡 Future Improvements
